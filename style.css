@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+body img{
+    width: 100%;
+}
+h2{
+    font-weight: bold;
+}
+header{
+    background-color: #F0FFF0;
+    max-height: 550px;
+    padding-bottom: 50px;
+}
+nav{
+    padding: 0 30px;
+}
+.header_menu{
+    width: 90%;
+}
+
+
+.header_text{
+    padding-left: 10%;
+}
+.header_img{
+    padding-right: 0px;
+    padding-left: 100px;
+}
+
+.btn-success{
+    border-radius: 20px;
+    
+}
+.orange-text{
+    color: orange;
+}
+.green-text{
+    color: green;
+    
+}
+.cat-1 img{
+    width: 30%;
+    margin: auto;
+    margin-top: 10px;
+}
+.cat-1 .card-group .card{
+    text-align: center;
+    margin: 10px;
+    border: none;
+    background-color: #F8FFFB;
+    border-radius: 15px;
+    
+}
+.cat-1 .card-group .card:hover {
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.card:hover {
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+}
+.card h5{
+    font-weight: 400;
+    font-size: 24px;
+}
+.online_course .card-group .card{
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 18px;
+}
+.small_icon{
+    height: 20px;
+    width: 18px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.testimonial_area{
+    width: 50%;
+    margin-bottom: 50px;
+}
+.testimonial_area h1{
+    font-weight: 700;
+    padding-bottom: 50px;
+}
+
+.testi_img{
+    background: url(images/Photos/Man.png) no-repeat; width: 120px; height: 120px; background-size: 100%
+}
+footer{
+    height: 420px;
+    color: white;
+}
+.footer_text{
+    padding: 100px 100px;
+}
+footer a{
+    text-decoration: none;
+    font-size: 16px;
+}
+footer h6{
+    font-weight: 700;
+}
+footer.copyright_text{
+    
+}
